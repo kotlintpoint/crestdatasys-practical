@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
 import { imagesData } from "../../data/imagesData";
